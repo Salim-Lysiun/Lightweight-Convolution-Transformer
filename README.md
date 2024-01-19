@@ -2,8 +2,8 @@
 Paper Link: [Lightweight convolution transformer for cross-patient seizure detection in multi-channel EEG signals
 ](https://doi.org/10.1016/j.cmpb.2023.107856))
 
-By [Ali Hassani<sup>[1]</sup><span>&#42;</span>](https://www.linkedin.com/in/salim-rukhsar-10845282/),
-[Steven Walton<sup>[1]</sup><span>&#42;</span>](http://home.iitj.ac.in/~akt/),
+By [Salim Rukhsar<sup>[1]</sup><span>&#42;</span>](https://www.linkedin.com/in/salim-rukhsar-10845282/),
+[Anil K. Tiwari<sup>[1]</sup><span>&#42;</span>](http://home.iitj.ac.in/~akt/),
 
 In association with Image Processing and Computer Vision Lab @ Indian Institute of Technology jodhpur.
 
