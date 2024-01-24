@@ -31,7 +31,7 @@ out = model(data)
 print(out.shape)
 ```
 
-# Citation
+## Citation
 ```bibtex
 @article{RUKHSAR2023107856,
 title = {Lightweight convolution transformer for cross-patient seizure detection in multi-channel EEG signals},
